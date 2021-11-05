@@ -1,0 +1,157 @@
+* {
+  text-align: center;
+  color: white;
+  background-color: rgb(40, 38, 46);
+}
+img {
+  width: 130px;
+  height: 130px;
+  padding-bottom: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wak {
+  width: 300px;
+  height: 300px;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 10px;
+  margin: 0%;
+}
+
+.상현 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.상현 {
+  padding-bottom: 50px;
+}
+
+.하현1 {
+  padding-bottom: 50px;
+}
+
+.망령1 {
+  padding-bottom: 50px;
+}
+
+.member0 {
+  /*우왁굳*/
+  align-items: center;
+}
+
+.member1 {
+  /*뢴트게늄*/
+}
+
+.member15 {
+  /*도파민 박사*/
+}
+
+.member3 {
+  /*풍신*/
+}
+
+.member4 {
+  /*비밀소녀*/
+}
+
+.member5 {
+  /*해루석*/
+}
+
+.member11 {
+  /*김치만두번영택사스가*/
+}
+
+.member16 {
+  /*히키킹*/
+}
+
+.하현 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.member2 {
+  /*새우튀김*/
+}
+
+.member17 {
+  /*독고혜지*/
+}
+
+.member18 {
+  /*미츠네 하쿠*/
+}
+
+.member19 {
+  /*소피아*/
+}
+
+.member20 {
+  /*부정형인간*/
+}
+
+.member21 {
+  /*이덕수할아바이*/
+}
+
+.망령 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.member6 {
+  /*캘리칼리데이비슨*/
+}
+
+.member7 {
+  /*곽춘식*/
+}
+
+.member8 {
+  /*권민*/
+}
+
+.member10 {
+}
+
+.member9 {
+  /*개냥이*/
+}
+
+.member12 {
+  /*왁파고*/
+}
+
+.member13 {
+  /*단답벌래*/
+}
+
+.member14 {
+  /*이덕수할아바이*/
+}
